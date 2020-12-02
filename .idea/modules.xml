@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CazyJava.iml" filepath="$PROJECT_DIR$/CazyJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GoBang/GoBang.iml" filepath="$PROJECT_DIR$/GoBang/GoBang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IOC/IOC.iml" filepath="$PROJECT_DIR$/IOC/IOC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaIde/JavaIde.iml" filepath="$PROJECT_DIR$/JavaIde/JavaIde.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LibrarySystem/LibrarySystem.iml" filepath="$PROJECT_DIR$/LibrarySystem/LibrarySystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkGame/LinkGame.iml" filepath="$PROJECT_DIR$/LinkGame/LinkGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiDownload/MultiDownload.iml" filepath="$PROJECT_DIR$/MultiDownload/MultiDownload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MySqlManager/MySqlManager.iml" filepath="$PROJECT_DIR$/MySqlManager/MySqlManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PictureViewer/PictureViewer.iml" filepath="$PROJECT_DIR$/PictureViewer/PictureViewer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pinball/Pinball.iml" filepath="$PROJECT_DIR$/Pinball/Pinball.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QQGanmeLobby/QQGanmeLobby.iml" filepath="$PROJECT_DIR$/QQGanmeLobby/QQGanmeLobby.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tetris/Tetris.iml" filepath="$PROJECT_DIR$/Tetris/Tetris.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TransactionTrackingSystem/TransactionTrackingSystem.iml" filepath="$PROJECT_DIR$/TransactionTrackingSystem/TransactionTrackingSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WindowCalculator/WindowCalculator.iml" filepath="$PROJECT_DIR$/WindowCalculator/WindowCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WindowPaint/WindowPaint.iml" filepath="$PROJECT_DIR$/WindowPaint/WindowPaint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eMClient/eMClient.iml" filepath="$PROJECT_DIR$/eMClient/eMClient.iml" />
+    </modules>
+  </component>
+</project>
